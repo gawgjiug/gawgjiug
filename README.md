@@ -2,7 +2,7 @@
 
 Open-source contributions and related pull requests.
 
-- [Vercel/turborepo](https://github.com/vercel/turborepo/pulls?q=is%3Aall+is%3Apr+author%3Agwagjiug+)
+- [Vercel/turborepo](https://github.com/vercel/turborepo/pulls?q=is%3Amerged+is%3Apr+author%3Agwagjiug)
 - [WebPro/knip](https://github.com/webpro-nl/knip/pulls?q=is%3Apr+author%3Agwagjiug)
 - [Toss/overlay-kit](https://github.com/toss/overlay-kit/pulls?q=is%3Apr+is%3Aall+gwagjiug)
 - [Toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+is%3Aall+gwagjiug)
